@@ -1,10 +1,10 @@
 # Destrave seu Brilho em 5 dias
 
-Landing page estática em português para o desafio de sete dias de desafio, com lives diárias às 7h e valores por lote de R$ 37,90, R$ 57,90 e R$ 97,90.
+Landing page estática em português para o desafio de cinco dias, com lives diárias às 7h e valores por lote de R$ 37,90, R$ 57,90 e R$ 97,90.
 
 ## Arquivo principal
 
-- `index.html`: página responsiva com vídeo reservado, benefícios, dificuldades da audiência, entregáveis, cronograma de atividades dos sete dias, oferta, depoimentos e dúvidas frequentes.
+- `index.html`: página responsiva com vídeo reservado, benefícios, dificuldades da audiência, entregáveis, cronograma de atividades dos cinco dias, oferta, depoimentos e dúvidas frequentes.
 
 ## Antes de publicar
 
